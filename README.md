@@ -25,7 +25,7 @@ Prod-DR solves all of the above by combining microservices architecture with clo
 |-----------------|----------------------|
 | Infrastructure as Code | HCL |
 | Containerization & Orchestration | Docker, Kubernetes (AKS) |
-| Microservices | (Mention languages/frameworks — e.g. Python/React) |
+| Microservices | (languages/frameworks — e.g. Python/React) |
 | CI/CD / Deployment | ( Azure DevOps / GitHub Actions ) |
 | Configuration & Secrets Management | (Mention ConfigMaps / Secrets / Helm values / Key vault integrations) |
 | Monitoring & Logging  | (Mention Prometheus / Grafana / Azure Monitor ) |
@@ -33,8 +33,7 @@ Prod-DR solves all of the above by combining microservices architecture with clo
 
 
 ## 📦 Installation / Setup & Usage  
-
-> Ye steps assume karte hain ki aapke paas Azure subscription / rights hain, aur aap CLI / IaC tools use kar sakte hain.  
+ 
 
 ```bash
 # 1. Repo clone karo  
