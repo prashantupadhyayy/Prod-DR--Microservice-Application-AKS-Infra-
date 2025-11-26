@@ -7,7 +7,7 @@
 **Prod-DR** is a production-ready microservices architecture deployed on Azure Kubernetes Service (AKS) — designed for high availability, scalability, and DR (Disaster Recovery) readiness. The infra is defined using infrastructure-as-code, ensuring consistent, reproducible and automated deployments across environments.  
 
 This repo Contains:  
-- Terraform/HCL (ya jo IaC aapne use kiya ho) for infra provisioning  
+- Terraform/HCL  for infra provisioning  
 - Microservice modules ready for containerization, deployment and orchestration  
 - Configurations for networking, load-balancing, service-discovery, and DR setup  
 
