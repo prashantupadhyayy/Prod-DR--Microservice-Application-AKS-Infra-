@@ -72,10 +72,10 @@ kubectl apply -f k8s/
 /modules            ← Microservice modules — code + Dockerfile + configs  
 k8s/               ← Kubernetes manifests / Helm charts / deployment configs  
 README.md           ← Ye file  
-...                ← (Agar aur folders hain — list karo)  
+
 ```
 
-(Agar koi additional directory ya config hai — usko bhi mention kar do.)
+
 
 ## 🔧 Key Features & Highlights
 
@@ -95,7 +95,7 @@ README.md           ← Ye file
 ## 📄 License
 
 Licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-*(Yeh assume kar raha hoon ki aap MIT use kar rahe hain; agar alag license hai — uska naam yahan daal den.)*
+
 
 ## 🔮 Future Enhancements (Optional / Roadmap)
 
@@ -107,7 +107,7 @@ Licensed under the **MIT License** — see the [LICENSE](LICENSE) file for detai
 
 ---
 
-**Last updated:** `$(date +"%Y-%m-%d")`
+**Last updated:**   `$(date +"%Y-%m-%d")`
 
 
 
